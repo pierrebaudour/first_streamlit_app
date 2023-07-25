@@ -44,4 +44,4 @@ streamlit.dataframe(my_data_row)
 # Let's put a pick list here so they can pick the fruit they want to include 
 add_my_fruit = streamlit.text_input('What fruit would you like to add?')
 streamlit.write('The user entered ', add_my_fruit)
-"fruityvice_response = requests.get("https://fruityvice.com/api/fruit/watermelon")
+#fruityvice_response = requests.get("https://fruityvice.com/api/fruit/watermelon")
